@@ -1,2 +1,2 @@
-# X_ray
-train a classifier
+# Classifier DCGAN
+train a classifier use dcgan
